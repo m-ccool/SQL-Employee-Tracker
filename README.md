@@ -23,7 +23,10 @@ Content management systems (CMS), command-line application from scratch to manag
 To deploy app locally, please run (cmd) "npm install", "npm start run" to view the local dev build
 
 ## Usage
-To deploy "production" version of the app, create by running (cmd) "npm build", "npm run build". Then run "node app.js" in the /main directory of the project. This should initialize the question prompt process. Fill out the forms as per use. After filling out prompts, main.html should be expored to "output" folder.
+To deploy:
+1. clone repository to local
+2. run `npm install`
+3. run `npm start`
 
 ## License
 n/a
