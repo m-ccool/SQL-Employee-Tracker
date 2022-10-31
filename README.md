@@ -11,6 +11,8 @@ Content management systems (CMS), command-line application from scratch to manag
 
 
 ## Technology
+* Express.js
+* Dotenv
 * Node.js
 * Inquirer
 * MySql
