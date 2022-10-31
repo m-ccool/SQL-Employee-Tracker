@@ -7,14 +7,8 @@ Content management systems (CMS), command-line application from scratch to manag
 - [License](#license)
 - [Author](#author)
 
-## Deployed Application
-**[🖥️ Deployed Application 🖱️](https://react-portfolio-mccool.herokuapp.com/)**
-
-
 ## Application Preview
-[team-html-generator-video.webm](https://user-images.githubusercontent.com/101916187/198900062-e7de3a6e-097b-49ed-8bef-89c63c3ba66b.webm)
 
-![cmd-screenshot](https://user-images.githubusercontent.com/101916187/198900056-d65393bb-ec94-4613-aefe-3a5f5e9e8a9d.png)
 
 ## Technology
 * Node.js
